@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e170a67b34c1440c91a2c8490d113d12, type: 3}
+  m_Name: Battery Plant
+  m_EditorClassIdentifier: 
+  id: Battery Plant
+  displayName: Battery Plant
+  recipes:
+  - {fileID: 11400000, guid: 446690d06817d479a9dd14ff61ef39c6, type: 2}
+  - {fileID: 11400000, guid: a9c8bff45654e4977ba9ff1a11ac1637, type: 2}

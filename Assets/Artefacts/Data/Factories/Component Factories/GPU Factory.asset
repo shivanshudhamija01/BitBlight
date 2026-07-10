@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a85504c9f12e40ceb6b6400dd42bb90d, type: 3}
+  m_Name: GPU Factory
+  m_EditorClassIdentifier: 
+  id: GPU Factory
+  displayName: GPU Factory
+  recipes:
+  - {fileID: 11400000, guid: 0c866b1f1846041e4be320d4a52b0cf0, type: 2}

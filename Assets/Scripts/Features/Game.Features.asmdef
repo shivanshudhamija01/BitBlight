@@ -1,0 +1,18 @@
+{
+    "name": "Game.Features",
+    "rootNamespace": "",
+    "references": [
+        "GUID:01032fad73e8b42fbbbe11588540cf60",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:b4e536eaaf27a442db867be468fd6ca5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

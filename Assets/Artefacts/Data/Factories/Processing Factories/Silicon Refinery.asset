@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e170a67b34c1440c91a2c8490d113d12, type: 3}
+  m_Name: Silicon Refinery
+  m_EditorClassIdentifier: 
+  id: Silicon Refinery
+  displayName: Silicon Refinery
+  recipes:
+  - {fileID: 11400000, guid: 96fa86e7f7921402d94f5a2e3d124cbb, type: 2}
+  - {fileID: 11400000, guid: a84c54ce364d24fc1ae961f581e76e50, type: 2}

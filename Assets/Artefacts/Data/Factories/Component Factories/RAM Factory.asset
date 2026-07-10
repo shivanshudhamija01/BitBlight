@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a85504c9f12e40ceb6b6400dd42bb90d, type: 3}
+  m_Name: RAM Factory
+  m_EditorClassIdentifier: 
+  id: RAM Factory
+  displayName: RAM Factory
+  recipes:
+  - {fileID: 11400000, guid: a4ab5d8c2d2e34388847fc1166f0bab2, type: 2}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bab4d73fce5c42a5a39899159e1dd774, type: 3}
+  m_Name: Oil Rig
+  m_EditorClassIdentifier: 
+  id: Oil Rig
+  displayName: Oil Rig
+  duration: 3
+  possibleOutputs:
+  - {fileID: 11400000, guid: 12bb72570807149ab8e414398a233d37, type: 2}
+  - {fileID: 11400000, guid: 88611e483ff7e42bb81ca50e1615b8da, type: 2}
+  - {fileID: 11400000, guid: 34088f3f1b5194c8f9b1a155781cfbf8, type: 2}
+  - {fileID: 11400000, guid: 6c8289cb6b9bb418688e7a2a5ba7303b, type: 2}
+  producedAmount: 1
