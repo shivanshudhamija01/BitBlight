@@ -42,12 +42,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 2000
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -115,7 +115,343 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Walk forward left 2.0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3324
+        width: 826
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ea1c27cadf54b909f59529b8cc62c4
+      internalID: 253717394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk forward left 2.0_1
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 3324
+        width: 826
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a05c5800feee408ba94993a97e90a1f
+      internalID: 844463739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk forward left 2.0_2
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 3324
+        width: 826
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3950891bd86b4925aeacea68816024f
+      internalID: -973124613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk forward left 2.0_3
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 3324
+        width: 826
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5025b50786f1c4bc8ae736285254d76b
+      internalID: 409967164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk forward left 2.0_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2216
+        width: 826
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e7f08d23aae4936a4d457b5aa1f4d9
+      internalID: -239190285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk forward left 2.0_5
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 2216
+        width: 826
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0bbf75ec82b49a4bf0f72ff080309b
+      internalID: -1325829498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk forward left 2.0_6
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 2216
+        width: 826
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1b2767ad6754cdcb2023a8e684f23e
+      internalID: -386017231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk forward left 2.0_7
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 2216
+        width: 826
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7940ff5368db9403b9f51362f48d8ad5
+      internalID: -1584154139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk forward left 2.0_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1108
+        width: 826
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e165c787cfc6c49dd8aa4d09dfc66d22
+      internalID: 2105515982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk forward left 2.0_9
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1108
+        width: 826
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7221f60aabf18402db5d08d58c4c70f3
+      internalID: -813190664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk forward left 2.0_10
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 1108
+        width: 826
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3fe0570da2b4ab3a541da7c1fb53d2
+      internalID: 2130270965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk forward left 2.0_11
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 1108
+        width: 826
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b296b6f91c37144f186b34ff2446a50d
+      internalID: 867430377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk forward left 2.0_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 826
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0467b08896c1a4ea8bfb1aa9fc9045c5
+      internalID: -677230330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk forward left 2.0_13
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 0
+        width: 826
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd116a404df924b3e8d949a87fc36fee
+      internalID: 1729420009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk forward left 2.0_14
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 0
+        width: 826
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e8d7d941c084e629d59a35d50d4cca
+      internalID: -1632425423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk forward left 2.0_15
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 0
+        width: 826
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c907a6100afe7437992a97e146e1a6e2
+      internalID: -564445595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -126,7 +462,23 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Walk forward left 2.0_0: 253717394
+      Walk forward left 2.0_1: 844463739
+      Walk forward left 2.0_10: 2130270965
+      Walk forward left 2.0_11: 867430377
+      Walk forward left 2.0_12: -677230330
+      Walk forward left 2.0_13: 1729420009
+      Walk forward left 2.0_14: -1632425423
+      Walk forward left 2.0_15: -564445595
+      Walk forward left 2.0_2: -973124613
+      Walk forward left 2.0_3: 409967164
+      Walk forward left 2.0_4: -239190285
+      Walk forward left 2.0_5: -1325829498
+      Walk forward left 2.0_6: -386017231
+      Walk forward left 2.0_7: -1584154139
+      Walk forward left 2.0_8: 2105515982
+      Walk forward left 2.0_9: -813190664
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

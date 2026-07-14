@@ -42,12 +42,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 2000
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -115,7 +115,343 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Back Walk Right 2.0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3210
+        width: 826
+        height: 1070
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6964cc73115f47a0879670f6d146723
+      internalID: -297242500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Walk Right 2.0_1
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 3210
+        width: 826
+        height: 1070
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aceb250d406814b48912b71c5cb0ad52
+      internalID: 2104703451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Walk Right 2.0_2
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 3210
+        width: 826
+        height: 1070
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4bf4ceda80d427885f1d61aeb6b240
+      internalID: 965543556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Walk Right 2.0_3
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 3210
+        width: 826
+        height: 1070
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc9f27df9cc6456b8fae749f74e8f93
+      internalID: 369687943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Walk Right 2.0_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2140
+        width: 826
+        height: 1070
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9594cc435e241378aef7fc8d886352
+      internalID: 775501278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Walk Right 2.0_5
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 2140
+        width: 826
+        height: 1070
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db32be737bca94731ad19edee8ba2fba
+      internalID: 350610181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Walk Right 2.0_6
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 2140
+        width: 826
+        height: 1070
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c63294784baf4f9f9155b79be6ad7b0
+      internalID: -275470547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Walk Right 2.0_7
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 2140
+        width: 826
+        height: 1070
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b38bcef48fa457093b4a24e6d76ccb
+      internalID: -1819542305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Walk Right 2.0_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1070
+        width: 826
+        height: 1070
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805aa6f369d7b4779814cf8ba92aa943
+      internalID: 927516345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Walk Right 2.0_9
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1070
+        width: 826
+        height: 1070
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b217fb912f974b458c64000d0a1a647
+      internalID: -1017815379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Walk Right 2.0_10
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 1070
+        width: 826
+        height: 1070
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fc9c511341c48e5b851f2ad207cfc4
+      internalID: 456469277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Walk Right 2.0_11
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 1070
+        width: 826
+        height: 1070
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ccc4910997d4b7c817d276d7159cc2
+      internalID: 2081370942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Walk Right 2.0_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 826
+        height: 1070
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec971f8a9e1047cd9bbbebd5f36a348
+      internalID: 1198114803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Walk Right 2.0_13
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 0
+        width: 826
+        height: 1070
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fee2b79e1be8425d86711fc2a4f4ab2
+      internalID: -893724550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Walk Right 2.0_14
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 0
+        width: 826
+        height: 1070
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8898b234a8acc4976a5324d2eabcaefa
+      internalID: 1667773442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Walk Right 2.0_15
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 0
+        width: 826
+        height: 1070
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9fdbe1d7db54383bf6ef81aa5386b7
+      internalID: 877695339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -126,7 +462,23 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Back Walk Right 2.0_0: -297242500
+      Back Walk Right 2.0_1: 2104703451
+      Back Walk Right 2.0_10: 456469277
+      Back Walk Right 2.0_11: 2081370942
+      Back Walk Right 2.0_12: 1198114803
+      Back Walk Right 2.0_13: -893724550
+      Back Walk Right 2.0_14: 1667773442
+      Back Walk Right 2.0_15: 877695339
+      Back Walk Right 2.0_2: 965543556
+      Back Walk Right 2.0_3: 369687943
+      Back Walk Right 2.0_4: 775501278
+      Back Walk Right 2.0_5: 350610181
+      Back Walk Right 2.0_6: -275470547
+      Back Walk Right 2.0_7: -1819542305
+      Back Walk Right 2.0_8: 927516345
+      Back Walk Right 2.0_9: -1017815379
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

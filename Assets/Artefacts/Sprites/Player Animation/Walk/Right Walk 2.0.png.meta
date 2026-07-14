@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9dbbdaecd016f496d9267c8d5ef6302a
+guid: 5b2f503b328e641268fcfbf12770a583
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -42,12 +42,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 2000
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -115,7 +115,343 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Right Walk 2.0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3246
+        width: 694
+        height: 1082
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdbc04b450cb42e5a77841a53266146
+      internalID: 173483970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Walk 2.0_1
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 3246
+        width: 694
+        height: 1082
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d503db788d3c4293b80d90317436254
+      internalID: 1674216406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Walk 2.0_2
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 3246
+        width: 694
+        height: 1082
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6cdf85d77224d8e9330b54c445526e
+      internalID: 339377014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Walk 2.0_3
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 3246
+        width: 694
+        height: 1082
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e555828745767400cabae0e55cf427a1
+      internalID: 1155585227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Walk 2.0_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2164
+        width: 694
+        height: 1082
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9638c1162becc4719b4b962be2949c3b
+      internalID: 1070542900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Walk 2.0_5
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 2164
+        width: 694
+        height: 1082
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409d42dcb172c4576bf180105a4585c4
+      internalID: -451856780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Walk 2.0_6
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 2164
+        width: 694
+        height: 1082
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4369b9791bc41c3875122d0e5a2f97
+      internalID: 460307479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Walk 2.0_7
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 2164
+        width: 694
+        height: 1082
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5f4094775654aa3a4f00b48de6cf71
+      internalID: 87557525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Walk 2.0_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1082
+        width: 694
+        height: 1082
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f90fb9e92bd04ea49aa158b9fc1f39b
+      internalID: 1440568164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Walk 2.0_9
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1082
+        width: 694
+        height: 1082
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc0365947d214c699c2e1fcbd11671c
+      internalID: -473447203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Walk 2.0_10
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 1082
+        width: 694
+        height: 1082
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048adb5dd75814787b0c1837b0042324
+      internalID: -343299235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Walk 2.0_11
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 1082
+        width: 694
+        height: 1082
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474a6c3e1d7f74b30b491d967428cd58
+      internalID: -629054390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Walk 2.0_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 694
+        height: 1082
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75035d40a4da8492eb5035e0442d6a4f
+      internalID: 7193651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Walk 2.0_13
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 0
+        width: 694
+        height: 1082
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a7ad1882a3f47c0a2e998f968f78a6
+      internalID: 1573603142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Walk 2.0_14
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 0
+        width: 694
+        height: 1082
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c39352229284b94a6188af3ccd7741
+      internalID: -862017040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Walk 2.0_15
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 0
+        width: 694
+        height: 1082
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f8e62225b8345d986eca22ec02d139
+      internalID: 725773060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -126,7 +462,23 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Right Walk 2.0_0: 173483970
+      Right Walk 2.0_1: 1674216406
+      Right Walk 2.0_10: -343299235
+      Right Walk 2.0_11: -629054390
+      Right Walk 2.0_12: 7193651
+      Right Walk 2.0_13: 1573603142
+      Right Walk 2.0_14: -862017040
+      Right Walk 2.0_15: 725773060
+      Right Walk 2.0_2: 339377014
+      Right Walk 2.0_3: 1155585227
+      Right Walk 2.0_4: 1070542900
+      Right Walk 2.0_5: -451856780
+      Right Walk 2.0_6: 460307479
+      Right Walk 2.0_7: 87557525
+      Right Walk 2.0_8: 1440568164
+      Right Walk 2.0_9: -473447203
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

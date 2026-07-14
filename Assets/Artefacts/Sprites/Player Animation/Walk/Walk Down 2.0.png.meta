@@ -42,12 +42,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 2000
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -115,7 +115,532 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Walk Down 2.0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4144
+        width: 826
+        height: 1036
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d2515f7f1e348959124973f65b031b
+      internalID: 1627729109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Down 2.0_1
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 4144
+        width: 826
+        height: 1036
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf52e48a31ae443ed9b172c3b4201d09
+      internalID: 652394429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Down 2.0_2
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 4144
+        width: 826
+        height: 1036
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4eb305ccc5b4e59bccf7e63f220973
+      internalID: 620629623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Down 2.0_3
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 4144
+        width: 826
+        height: 1036
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6396138ee3d9494a9c7e0b8c9f9f615
+      internalID: 1873271089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Down 2.0_4
+      rect:
+        serializedVersion: 2
+        x: 3304
+        y: 4144
+        width: 826
+        height: 1036
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01542f21b4a24f44a3eb236bcc836cb
+      internalID: -2028844579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Down 2.0_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3108
+        width: 826
+        height: 1036
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524bf01dbc5a04a228779a7ad5e5096b
+      internalID: -1425430531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Down 2.0_6
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 3108
+        width: 826
+        height: 1036
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63f609cb99824eeb91ae7aa2ebaaba4
+      internalID: 1993682449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Down 2.0_7
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 3108
+        width: 826
+        height: 1036
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae56e26abbbd4d8c873557e844ca7e0
+      internalID: -327859067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Down 2.0_8
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 3108
+        width: 826
+        height: 1036
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14149affd7bba44f284b57181399f64e
+      internalID: 1541638139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Down 2.0_9
+      rect:
+        serializedVersion: 2
+        x: 3304
+        y: 3108
+        width: 826
+        height: 1036
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991d712ff174f443dafbe739cd181781
+      internalID: -968281745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Down 2.0_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2072
+        width: 826
+        height: 1036
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01a06904c6484164b0aa66a046991d0
+      internalID: -1511448282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Down 2.0_11
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 2072
+        width: 826
+        height: 1036
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0efebc0028374b0b90f151b33ec9430
+      internalID: 1388524446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Down 2.0_12
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 2072
+        width: 826
+        height: 1036
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d23cbfaf497472ba751d12276e3282
+      internalID: 1222360924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Down 2.0_13
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 2072
+        width: 826
+        height: 1036
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e754bcf58dd040e7979bb72757c6a9e
+      internalID: -87826749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Down 2.0_14
+      rect:
+        serializedVersion: 2
+        x: 3304
+        y: 2072
+        width: 826
+        height: 1036
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00caa5f1a3061406db7d75b46f3653b0
+      internalID: 28428149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Down 2.0_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1036
+        width: 826
+        height: 1036
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b6685efb299489abdee8757765d121
+      internalID: 320806446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Down 2.0_16
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1036
+        width: 826
+        height: 1036
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef112b58a0a747f2b4be3ea74e71720
+      internalID: 1032146270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Down 2.0_17
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 1036
+        width: 826
+        height: 1036
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4061d4f82e134a27a0524ba2a87b871
+      internalID: -1939020982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Down 2.0_18
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 1036
+        width: 826
+        height: 1036
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4035511379a3a4a1984dead1fb48341d
+      internalID: 291314505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Down 2.0_19
+      rect:
+        serializedVersion: 2
+        x: 3304
+        y: 1036
+        width: 826
+        height: 1036
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fb7001aa2d84009a856e008fddc890
+      internalID: 643895928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Down 2.0_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 826
+        height: 1036
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8364757dba44c49c19ec1920a2c5f960
+      internalID: -1658469596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Down 2.0_21
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 0
+        width: 826
+        height: 1036
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396c3d2f3120944aebf3a681e3bfb981
+      internalID: -1969101028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Down 2.0_22
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 0
+        width: 826
+        height: 1036
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2b53db219ad4c31bf956271921d02e
+      internalID: -488414071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Down 2.0_23
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 0
+        width: 826
+        height: 1036
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c27300a02654482be31b5f58b8eb0e
+      internalID: 2082434085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Down 2.0_24
+      rect:
+        serializedVersion: 2
+        x: 3304
+        y: 0
+        width: 826
+        height: 1036
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140a412ac35314012b50bfa332228543
+      internalID: -1884159904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -126,7 +651,32 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Walk Down 2.0_0: 1627729109
+      Walk Down 2.0_1: 652394429
+      Walk Down 2.0_10: -1511448282
+      Walk Down 2.0_11: 1388524446
+      Walk Down 2.0_12: 1222360924
+      Walk Down 2.0_13: -87826749
+      Walk Down 2.0_14: 28428149
+      Walk Down 2.0_15: 320806446
+      Walk Down 2.0_16: 1032146270
+      Walk Down 2.0_17: -1939020982
+      Walk Down 2.0_18: 291314505
+      Walk Down 2.0_19: 643895928
+      Walk Down 2.0_2: 620629623
+      Walk Down 2.0_20: -1658469596
+      Walk Down 2.0_21: -1969101028
+      Walk Down 2.0_22: -488414071
+      Walk Down 2.0_23: 2082434085
+      Walk Down 2.0_24: -1884159904
+      Walk Down 2.0_3: 1873271089
+      Walk Down 2.0_4: -2028844579
+      Walk Down 2.0_5: -1425430531
+      Walk Down 2.0_6: 1993682449
+      Walk Down 2.0_7: -327859067
+      Walk Down 2.0_8: 1541638139
+      Walk Down 2.0_9: -968281745
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

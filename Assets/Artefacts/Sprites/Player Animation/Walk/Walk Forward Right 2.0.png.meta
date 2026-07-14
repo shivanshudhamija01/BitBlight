@@ -42,12 +42,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 2000
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -115,7 +115,343 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Walk Forward Right 2.0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3294
+        width: 826
+        height: 1098
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183b3198468f140a49aaa11f7612b6ef
+      internalID: -1304588630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Forward Right 2.0_1
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 3294
+        width: 826
+        height: 1098
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b0213fb9d734e15832ef2b1ef8becc
+      internalID: 1191780559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Forward Right 2.0_2
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 3294
+        width: 826
+        height: 1098
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ebbb0e20a4b4f6fabdf255609a3c96
+      internalID: -168179754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Forward Right 2.0_3
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 3294
+        width: 826
+        height: 1098
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8188eb4a813084972b5600248271d047
+      internalID: -2067881278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Forward Right 2.0_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2196
+        width: 826
+        height: 1098
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75948e6164e044719babd65417404963
+      internalID: 1040927553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Forward Right 2.0_5
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 2196
+        width: 826
+        height: 1098
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0463da83fec431fb4b51edf390081b
+      internalID: -1632303330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Forward Right 2.0_6
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 2196
+        width: 826
+        height: 1098
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebb5cf17a7bc449d8c76a97c5ba5c14
+      internalID: -812734396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Forward Right 2.0_7
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 2196
+        width: 826
+        height: 1098
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171d20c99cf91404587fd24dfaa1536a
+      internalID: 616132674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Forward Right 2.0_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1098
+        width: 826
+        height: 1098
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb42b61dcfff40bfbb5dce04ddb0d9a
+      internalID: -1894988878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Forward Right 2.0_9
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1098
+        width: 826
+        height: 1098
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19faa4efe6c3446ae8e0c964e52c8453
+      internalID: -404113765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Forward Right 2.0_10
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 1098
+        width: 826
+        height: 1098
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc87c0678fd64003800cf9ef237b880
+      internalID: -301810951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Forward Right 2.0_11
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 1098
+        width: 826
+        height: 1098
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096a11895c5c643408cd426487ee8f6a
+      internalID: -2041398875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Forward Right 2.0_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 826
+        height: 1098
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bd6ff5927604f6383b0453bc0c9b63
+      internalID: -721940623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Forward Right 2.0_13
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 0
+        width: 826
+        height: 1098
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5821222226c46d99d0db98312bc8d1
+      internalID: 1248296487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Forward Right 2.0_14
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 0
+        width: 826
+        height: 1098
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f462c9174b044431f812f5b690798731
+      internalID: 1995173117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Forward Right 2.0_15
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 0
+        width: 826
+        height: 1098
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac3f4c2f74b74a9eaa1ac8ce6fa9225
+      internalID: -1046608194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -126,7 +462,23 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Walk Forward Right 2.0_0: -1304588630
+      Walk Forward Right 2.0_1: 1191780559
+      Walk Forward Right 2.0_10: -301810951
+      Walk Forward Right 2.0_11: -2041398875
+      Walk Forward Right 2.0_12: -721940623
+      Walk Forward Right 2.0_13: 1248296487
+      Walk Forward Right 2.0_14: 1995173117
+      Walk Forward Right 2.0_15: -1046608194
+      Walk Forward Right 2.0_2: -168179754
+      Walk Forward Right 2.0_3: -2067881278
+      Walk Forward Right 2.0_4: 1040927553
+      Walk Forward Right 2.0_5: -1632303330
+      Walk Forward Right 2.0_6: -812734396
+      Walk Forward Right 2.0_7: 616132674
+      Walk Forward Right 2.0_8: -1894988878
+      Walk Forward Right 2.0_9: -404113765
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
