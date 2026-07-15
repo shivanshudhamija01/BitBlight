@@ -1,0 +1,685 @@
+fileFormatVersion: 2
+guid: 6ecb3bf150057445686cd5c2d8bda5f4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 2000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle Left Down 2.0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4432
+        width: 826
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0094878861d3a4700b08d14a8732fa9f
+      internalID: 537504942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Left Down 2.0_1
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 4432
+        width: 826
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b715b70992fd74155a76c2a4ce2a7851
+      internalID: -398772077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Left Down 2.0_2
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 4432
+        width: 826
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83375d14aa6d4e5a915db2558b46635
+      internalID: 790987794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Left Down 2.0_3
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 4432
+        width: 826
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e8a89b3550d428abb6bb66a2a30828
+      internalID: -113417294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Left Down 2.0_4
+      rect:
+        serializedVersion: 2
+        x: 3304
+        y: 4432
+        width: 826
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4903b44fa66504936aba84a3134402c1
+      internalID: 570876865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Left Down 2.0_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3324
+        width: 826
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ee1273b9c4f4036ae8e32b080ce025
+      internalID: 1887016590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Left Down 2.0_6
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 3324
+        width: 826
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5737eb80ef86f49ca9e2a6ca2125216c
+      internalID: 1921191703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Left Down 2.0_7
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 3324
+        width: 826
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82f5a61ec4c243c29473567fd8f4f4a
+      internalID: 1913765213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Left Down 2.0_8
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 3324
+        width: 826
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc40326d6c94b4e768dd2850c1cb2c04
+      internalID: 1402489277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Left Down 2.0_9
+      rect:
+        serializedVersion: 2
+        x: 3304
+        y: 3324
+        width: 826
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2c03d93c4e440e7a96bf5c9fa0c84a
+      internalID: -1991407881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Left Down 2.0_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2216
+        width: 826
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be5b97a767664c278bde4067c72a975
+      internalID: -276307613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Left Down 2.0_11
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 2216
+        width: 826
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f6006d45825479f80e3d0100c57603
+      internalID: -567796404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Left Down 2.0_12
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 2216
+        width: 826
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501e3e9b4137f4eb18e7021dd206c46f
+      internalID: 317096381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Left Down 2.0_13
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 2216
+        width: 826
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808f7eee97e4645ef9178106b3e080db
+      internalID: 1014160353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Left Down 2.0_14
+      rect:
+        serializedVersion: 2
+        x: 3304
+        y: 2216
+        width: 826
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fc8e21074d643628c0e483cbe053fa
+      internalID: -5830843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Left Down 2.0_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1108
+        width: 826
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb7f9f144c8d4bf5822351f306de3a8
+      internalID: -681654480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Left Down 2.0_16
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1108
+        width: 826
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84b282d4f74b4dba97d9d2e4ffc8077
+      internalID: -671358624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Left Down 2.0_17
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 1108
+        width: 826
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345715ed910b9417c90d3f5a074ab954
+      internalID: 1398271554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Left Down 2.0_18
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 1108
+        width: 826
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c4845771246416abdaf57f23a22327
+      internalID: -156321638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Left Down 2.0_19
+      rect:
+        serializedVersion: 2
+        x: 3304
+        y: 1108
+        width: 826
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179ce3b2e5afe4025b4347bacd9f10ab
+      internalID: 2005370198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Left Down 2.0_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 826
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4855502f22c4228b91d969a8622b04
+      internalID: 1005301700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Left Down 2.0_21
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 0
+        width: 826
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f69b701cfdd74e429ad55cf3471a021
+      internalID: -60474662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Left Down 2.0_22
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 0
+        width: 826
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20dcb645379c4b0bbb4431602d8e5f0
+      internalID: -966497621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Left Down 2.0_23
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 0
+        width: 826
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f759f66df8d2a471c89ae638093d6f36
+      internalID: 607073616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Left Down 2.0_24
+      rect:
+        serializedVersion: 2
+        x: 3304
+        y: 0
+        width: 826
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b83172a2f39d441393ea7e82aec166f
+      internalID: -945711669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Idle Left Down 2.0_0: 537504942
+      Idle Left Down 2.0_1: -398772077
+      Idle Left Down 2.0_10: -276307613
+      Idle Left Down 2.0_11: -567796404
+      Idle Left Down 2.0_12: 317096381
+      Idle Left Down 2.0_13: 1014160353
+      Idle Left Down 2.0_14: -5830843
+      Idle Left Down 2.0_15: -681654480
+      Idle Left Down 2.0_16: -671358624
+      Idle Left Down 2.0_17: 1398271554
+      Idle Left Down 2.0_18: -156321638
+      Idle Left Down 2.0_19: 2005370198
+      Idle Left Down 2.0_2: 790987794
+      Idle Left Down 2.0_20: 1005301700
+      Idle Left Down 2.0_21: -60474662
+      Idle Left Down 2.0_22: -966497621
+      Idle Left Down 2.0_23: 607073616
+      Idle Left Down 2.0_24: -945711669
+      Idle Left Down 2.0_3: -113417294
+      Idle Left Down 2.0_4: 570876865
+      Idle Left Down 2.0_5: 1887016590
+      Idle Left Down 2.0_6: 1921191703
+      Idle Left Down 2.0_7: 1913765213
+      Idle Left Down 2.0_8: 1402489277
+      Idle Left Down 2.0_9: -1991407881
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
